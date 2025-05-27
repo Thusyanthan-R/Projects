@@ -19,3 +19,9 @@ I’m always eager to connect, share ideas, and explore new opportunities. Pleas
 - **Website:** [www.thusyanthan.dev](https://www.thusyanthan.dev)  
 - **Email:** thusyanthan.r@gmail.com  
 - **LinkedIn:** [linkedin.com/in/rthusy](https://linkedin.com/in/rthusy)
+
+---
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
